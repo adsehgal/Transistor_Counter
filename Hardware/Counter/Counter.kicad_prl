@@ -13,16 +13,16 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
-      "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "graphics": false,
+      "keepouts": false,
+      "lockedItems": false,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
-      "vias": true,
+      "vias": false,
       "zones": true
     },
     "visible_items": [
@@ -60,7 +60,7 @@
       36,
       37
     ],
-    "visible_layers": "7ffff_ffffffff"
+    "visible_layers": "0ffff_80000001"
   },
   "meta": {
     "filename": "Counter.kicad_prl",
