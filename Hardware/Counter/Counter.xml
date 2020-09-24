@@ -1,0 +1,3913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch</source>
+    <date>2020 September 24, Thursday 11:48:57</date>
+    <tool>Eeschema (5.99.0-3349-gc9824bbd9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Counter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND4.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND4.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF_RST.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF_RST.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF_RST.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AND.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>XOR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OR.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF_RST.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="26" name="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FF.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4ad8ee92-e07e-4007-8d7e-e0ef1f284363</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10µF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>735f81aa-41d4-44fd-8df9-b152f28c9096</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7fdbaa9c-663c-4170-b527-4b01c42246be</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0a45b909-7a99-49a0-a5d7-d848b25d012b</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>285e9e26-00dd-40c6-82e2-5f0c1a7ee369</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2a9a0666-95db-4801-b161-1d3794700abf</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2ed6cda9-d898-49c0-853d-6b37b4a2a78d</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7f974d23-7c66-4d0d-963a-b841e90c216e</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>PWR</value>
+      <footprint>Custom_Vertical_1x_2.54mm_Pin_Header:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3cac0506-b26b-4565-b1d7-7f9b1ddcf5fe</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>OUT</value>
+      <footprint>Custom_Vertical_1x_2.54mm_Pin_Header:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6e78f6cf-754b-4640-b244-6b43f6c6ba15</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8da1b2c3-f594-4290-8227-e35a7c4601fb</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>79308048-c745-4d1f-85fd-8251d2f14754</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6fb7b041-657f-46c4-a5bf-9ac0d208b9e5</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>dcf98523-4690-494c-8b45-083ed5c540f6</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>79afdc11-e733-4427-8a82-f430a76b72e4</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8c418dbe-f121-4c2d-9571-19c225c43601</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0f6a128f-1354-4428-b23d-d45834343dc3</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b53f01e4-0534-4baf-b7ba-2638b1ee320a</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e0f07ee4-2859-48ba-91c9-961a3c3cf7dc</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>100K</value>
+      <footprint>Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical</footprint>
+      <datasheet>VG039NCHXTB104</datasheet>
+      <libsource lib="Device" part="R_POT_US" description="Potentiometer, US symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>cc45df4d-38f5-4850-a31d-683438a58c63</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1d48da46-6c6c-4a09-b309-38ab0042fe49</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2cdd3929-e79a-4ad0-9099-17767d9731e9</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM555xM</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm555.pdf</datasheet>
+      <libsource lib="Timer" part="LM555xM" description="Timer, 555 compatible, SOIC-8"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="/Users/adityasehgal/Documents/GitHub/Transistor_Counter/Hardware/Counter/Counter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8ecf5c0b-d83e-46b6-a4a1-a5755482b684</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>a5891468-702d-44da-bd1a-20be715afbb6</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>17f1cd05-b5fd-445b-99bc-54fb2446eece</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>dadbbdb1-b0ba-43c2-8aee-7013438abafc</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>83dcc9d6-c590-424a-9ac0-5e13ddcafa65</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>02b174c6-52b6-4ac6-a461-670e766bb87d</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>cbc8ae7f-a25a-4375-bf8d-792202d3ffb3</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>603a18c2-e236-4816-b2bf-49fd0da664e0</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_1"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_1/" tstamps="/9bcf70f4-5274-4bab-b423-2bc2e23ccb9c/"/>
+      <tstamp>29442f8d-c7be-4311-8559-c2f9edf9cd53</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>a5891468-702d-44da-bd1a-20be715afbb6</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>17f1cd05-b5fd-445b-99bc-54fb2446eece</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>dadbbdb1-b0ba-43c2-8aee-7013438abafc</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>83dcc9d6-c590-424a-9ac0-5e13ddcafa65</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>02b174c6-52b6-4ac6-a461-670e766bb87d</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>cbc8ae7f-a25a-4375-bf8d-792202d3ffb3</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>603a18c2-e236-4816-b2bf-49fd0da664e0</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3_2"/>
+      <property name="Sheet file" value="AND3.kicad_sch"/>
+      <sheetpath names="/AND3_2/" tstamps="/36bcc5af-3c52-4025-8aae-84a3d81be42b/"/>
+      <tstamp>29442f8d-c7be-4311-8559-c2f9edf9cd53</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>def58145-6dd0-45cd-872b-9c465e0a9439</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>e69cd189-df65-433b-86d0-eb48859ffb77</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>5e31ef7b-81c5-4c63-9748-ca4729e437c3</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>e3647ad5-dd44-4f79-8246-c936033a5246</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>aeaefb4b-d1d5-41c4-b7fc-f161e4038460</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>117ba281-7565-45df-9596-9f14deb2ff93</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>59424826-4604-404f-b8a7-b964d230c4a9</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>64014a99-4d0b-498c-beed-62933ccf27ad</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>3944bf82-7127-4433-8091-dea0ca28d7ea</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_1"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_1/" tstamps="/673a1ee4-db23-444a-b6ff-13de7fb91904/"/>
+      <tstamp>f4f7402d-247c-4521-835d-0ac15df5aa0c</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>def58145-6dd0-45cd-872b-9c465e0a9439</tstamp>
+    </comp>
+    <comp ref="Q22">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>e69cd189-df65-433b-86d0-eb48859ffb77</tstamp>
+    </comp>
+    <comp ref="Q23">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>5e31ef7b-81c5-4c63-9748-ca4729e437c3</tstamp>
+    </comp>
+    <comp ref="Q24">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>e3647ad5-dd44-4f79-8246-c936033a5246</tstamp>
+    </comp>
+    <comp ref="Q25">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>aeaefb4b-d1d5-41c4-b7fc-f161e4038460</tstamp>
+    </comp>
+    <comp ref="Q26">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>117ba281-7565-45df-9596-9f14deb2ff93</tstamp>
+    </comp>
+    <comp ref="Q27">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>59424826-4604-404f-b8a7-b964d230c4a9</tstamp>
+    </comp>
+    <comp ref="Q28">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>64014a99-4d0b-498c-beed-62933ccf27ad</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>3944bf82-7127-4433-8091-dea0ca28d7ea</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND4_2"/>
+      <property name="Sheet file" value="AND4.kicad_sch"/>
+      <sheetpath names="/AND4_2/" tstamps="/84870157-dcfe-432e-a145-c7b2bd789836/"/>
+      <tstamp>f4f7402d-247c-4521-835d-0ac15df5aa0c</tstamp>
+    </comp>
+    <comp ref="Q29">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>57f580d2-674b-43ec-8933-096fe119975a</tstamp>
+    </comp>
+    <comp ref="Q30">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>897b6fea-1b87-4f9a-83da-40565307737e</tstamp>
+    </comp>
+    <comp ref="Q31">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>252e6e7b-da50-4c1d-b1e6-ba490c63ec50</tstamp>
+    </comp>
+    <comp ref="Q32">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>6c4a2db4-ccf4-4480-92f7-e9f34d3faf19</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>50d53dc2-4ef7-49bd-8a67-d00cc4eec43b</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR1"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR1/" tstamps="/edbbd222-741a-44a9-829f-aa95d8ee3197/"/>
+      <tstamp>ab1758a4-65a8-46d7-8838-4cba46449686</tstamp>
+    </comp>
+    <comp ref="Q33">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q34">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q35">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q36">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q37">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q38">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q39">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q40">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR3"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR3/" tstamps="/2d7db432-4018-46c0-9784-07ce5d57afe8/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q41">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q42">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q43">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q44">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q45">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q46">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q47">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q48">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR4"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR4/" tstamps="/ac43b026-3844-4797-8340-f5a44b2ff729/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q49">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q50">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q51">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q52">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q53">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q54">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q55">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q56">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR5"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR5/" tstamps="/1a6fe590-a91d-476f-80ba-f166ffae3789/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q57">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q58">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q59">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q60">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q61">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q62">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q63">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q64">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR6"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR6/" tstamps="/b17d5203-b0e7-4b22-95d9-d2ef85713c18/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q65">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>7143cc1b-6ef2-4f26-a6dc-1a94c4bff3b1</tstamp>
+    </comp>
+    <comp ref="Q66">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>aed32c77-dc8d-49b6-a66d-e6c17cb24dce</tstamp>
+    </comp>
+    <comp ref="Q67">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>5d85e32b-c6f0-4e54-a829-56faee670f7e</tstamp>
+    </comp>
+    <comp ref="Q68">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>c77b8a4a-cbd0-4a6a-a81d-9a791b25e6d8</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>827ffcfd-a3b5-43de-8273-4db4f94626a6</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND1"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND1/" tstamps="/158071d0-aa29-495d-ad5b-0b6488781651/"/>
+      <tstamp>0bc68f84-7852-4131-acc4-9942600a8f55</tstamp>
+    </comp>
+    <comp ref="Q69">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>fb2ddda1-1e4b-4e51-b39d-46633759ce7b</tstamp>
+    </comp>
+    <comp ref="Q70">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>a1d82310-8280-4a84-b37b-00dcbb8f97fa</tstamp>
+    </comp>
+    <comp ref="Q71">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>bf87e5b4-f774-422c-b15d-920c6e44d3b8</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>88aa5a6a-14e1-43ad-9537-1e70f0a90f63</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>e78214fd-990b-4d12-9d9b-d4721fb5f0ff</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>f10c0627-2de6-41e1-a480-3b5a89a2c980</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST1"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST1/" tstamps="/2adf4c48-4fb1-4622-9c7a-5ab5b9375e46/"/>
+      <tstamp>e2947fc6-1255-47ce-b41b-65bf5f62ae40</tstamp>
+    </comp>
+    <comp ref="Q72">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>57f580d2-674b-43ec-8933-096fe119975a</tstamp>
+    </comp>
+    <comp ref="Q73">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>897b6fea-1b87-4f9a-83da-40565307737e</tstamp>
+    </comp>
+    <comp ref="Q74">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>252e6e7b-da50-4c1d-b1e6-ba490c63ec50</tstamp>
+    </comp>
+    <comp ref="Q75">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>6c4a2db4-ccf4-4480-92f7-e9f34d3faf19</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>50d53dc2-4ef7-49bd-8a67-d00cc4eec43b</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR3"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR3/" tstamps="/f635b729-5565-44ce-bff5-9b0f5cfc1d62/"/>
+      <tstamp>ab1758a4-65a8-46d7-8838-4cba46449686</tstamp>
+    </comp>
+    <comp ref="Q76">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>57f580d2-674b-43ec-8933-096fe119975a</tstamp>
+    </comp>
+    <comp ref="Q77">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>897b6fea-1b87-4f9a-83da-40565307737e</tstamp>
+    </comp>
+    <comp ref="Q78">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>252e6e7b-da50-4c1d-b1e6-ba490c63ec50</tstamp>
+    </comp>
+    <comp ref="Q79">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>6c4a2db4-ccf4-4480-92f7-e9f34d3faf19</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>50d53dc2-4ef7-49bd-8a67-d00cc4eec43b</tstamp>
+    </comp>
+    <comp ref="U36">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR4"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR4/" tstamps="/0c1d3868-0b2e-43d0-b128-492f7d81a814/"/>
+      <tstamp>ab1758a4-65a8-46d7-8838-4cba46449686</tstamp>
+    </comp>
+    <comp ref="Q80">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>fb2ddda1-1e4b-4e51-b39d-46633759ce7b</tstamp>
+    </comp>
+    <comp ref="Q81">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>a1d82310-8280-4a84-b37b-00dcbb8f97fa</tstamp>
+    </comp>
+    <comp ref="Q82">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>bf87e5b4-f774-422c-b15d-920c6e44d3b8</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>88aa5a6a-14e1-43ad-9537-1e70f0a90f63</tstamp>
+    </comp>
+    <comp ref="U37">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>e78214fd-990b-4d12-9d9b-d4721fb5f0ff</tstamp>
+    </comp>
+    <comp ref="U38">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>f10c0627-2de6-41e1-a480-3b5a89a2c980</tstamp>
+    </comp>
+    <comp ref="U39">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST3"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST3/" tstamps="/f173b2f8-43a9-4bbd-bc01-af58466556d3/"/>
+      <tstamp>e2947fc6-1255-47ce-b41b-65bf5f62ae40</tstamp>
+    </comp>
+    <comp ref="Q83">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>fb2ddda1-1e4b-4e51-b39d-46633759ce7b</tstamp>
+    </comp>
+    <comp ref="Q84">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>a1d82310-8280-4a84-b37b-00dcbb8f97fa</tstamp>
+    </comp>
+    <comp ref="Q85">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>bf87e5b4-f774-422c-b15d-920c6e44d3b8</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>88aa5a6a-14e1-43ad-9537-1e70f0a90f63</tstamp>
+    </comp>
+    <comp ref="U40">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>e78214fd-990b-4d12-9d9b-d4721fb5f0ff</tstamp>
+    </comp>
+    <comp ref="U41">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>f10c0627-2de6-41e1-a480-3b5a89a2c980</tstamp>
+    </comp>
+    <comp ref="U42">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="&#xA;FF_RST4"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/&#xA;FF_RST4/" tstamps="/1b4c7cb5-bebb-49c1-9a9b-fd15983460e2/"/>
+      <tstamp>e2947fc6-1255-47ce-b41b-65bf5f62ae40</tstamp>
+    </comp>
+    <comp ref="Q86">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>6cdb986f-d745-41ab-94e2-008b477f6ec1</tstamp>
+    </comp>
+    <comp ref="Q87">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>afddeb19-6c4e-45b5-b9e3-d652b8e828db</tstamp>
+    </comp>
+    <comp ref="Q88">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>b128ad91-fcd3-42b3-822f-4e2be286e9c7</tstamp>
+    </comp>
+    <comp ref="Q89">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>cfe55ba9-68de-4af4-96b8-5ad14b09e043</tstamp>
+    </comp>
+    <comp ref="Q90">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>28a6c4bb-b462-4bac-900d-b66b322b573a</tstamp>
+    </comp>
+    <comp ref="U43">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>5a1a7a33-91c2-473a-b793-9ebd24f03607</tstamp>
+    </comp>
+    <comp ref="U44">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>906e797e-97f0-488e-8f17-1508d4ad8782</tstamp>
+    </comp>
+    <comp ref="U45">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>30a24b59-014d-45cb-ac92-a248996622b3</tstamp>
+    </comp>
+    <comp ref="U46">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>8b20ac56-21fe-4a9a-96da-6f996344b89f</tstamp>
+    </comp>
+    <comp ref="U47">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF1"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF1/" tstamps="/5042f308-d187-4c8a-b498-2993dabaa805/"/>
+      <tstamp>4884b943-f1ea-4fa8-aef1-59b4af7db9bb</tstamp>
+    </comp>
+    <comp ref="Q91">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>6cdb986f-d745-41ab-94e2-008b477f6ec1</tstamp>
+    </comp>
+    <comp ref="Q92">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>afddeb19-6c4e-45b5-b9e3-d652b8e828db</tstamp>
+    </comp>
+    <comp ref="Q93">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>b128ad91-fcd3-42b3-822f-4e2be286e9c7</tstamp>
+    </comp>
+    <comp ref="Q94">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>cfe55ba9-68de-4af4-96b8-5ad14b09e043</tstamp>
+    </comp>
+    <comp ref="Q95">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>28a6c4bb-b462-4bac-900d-b66b322b573a</tstamp>
+    </comp>
+    <comp ref="U48">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>5a1a7a33-91c2-473a-b793-9ebd24f03607</tstamp>
+    </comp>
+    <comp ref="U49">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>906e797e-97f0-488e-8f17-1508d4ad8782</tstamp>
+    </comp>
+    <comp ref="U50">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>30a24b59-014d-45cb-ac92-a248996622b3</tstamp>
+    </comp>
+    <comp ref="U51">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>8b20ac56-21fe-4a9a-96da-6f996344b89f</tstamp>
+    </comp>
+    <comp ref="U52">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF3"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF3/" tstamps="/7c0db5b7-ac5e-4205-87fd-3445a4d5e86b/"/>
+      <tstamp>4884b943-f1ea-4fa8-aef1-59b4af7db9bb</tstamp>
+    </comp>
+    <comp ref="Q96">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>6cdb986f-d745-41ab-94e2-008b477f6ec1</tstamp>
+    </comp>
+    <comp ref="Q97">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>afddeb19-6c4e-45b5-b9e3-d652b8e828db</tstamp>
+    </comp>
+    <comp ref="Q98">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>b128ad91-fcd3-42b3-822f-4e2be286e9c7</tstamp>
+    </comp>
+    <comp ref="Q99">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>cfe55ba9-68de-4af4-96b8-5ad14b09e043</tstamp>
+    </comp>
+    <comp ref="Q100">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>28a6c4bb-b462-4bac-900d-b66b322b573a</tstamp>
+    </comp>
+    <comp ref="U53">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>5a1a7a33-91c2-473a-b793-9ebd24f03607</tstamp>
+    </comp>
+    <comp ref="U54">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>906e797e-97f0-488e-8f17-1508d4ad8782</tstamp>
+    </comp>
+    <comp ref="U55">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>30a24b59-014d-45cb-ac92-a248996622b3</tstamp>
+    </comp>
+    <comp ref="U56">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>8b20ac56-21fe-4a9a-96da-6f996344b89f</tstamp>
+    </comp>
+    <comp ref="U57">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF4"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF4/" tstamps="/40ad1b94-2361-474d-ad45-ffd4180c19d2/"/>
+      <tstamp>4884b943-f1ea-4fa8-aef1-59b4af7db9bb</tstamp>
+    </comp>
+    <comp ref="Q101">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>7143cc1b-6ef2-4f26-a6dc-1a94c4bff3b1</tstamp>
+    </comp>
+    <comp ref="Q102">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>aed32c77-dc8d-49b6-a66d-e6c17cb24dce</tstamp>
+    </comp>
+    <comp ref="Q103">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>5d85e32b-c6f0-4e54-a829-56faee670f7e</tstamp>
+    </comp>
+    <comp ref="Q104">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>c77b8a4a-cbd0-4a6a-a81d-9a791b25e6d8</tstamp>
+    </comp>
+    <comp ref="U58">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>827ffcfd-a3b5-43de-8273-4db4f94626a6</tstamp>
+    </comp>
+    <comp ref="U59">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND2"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND2/" tstamps="/ef5494e6-5e31-4fbe-84b4-fe246a6c92d5/"/>
+      <tstamp>0bc68f84-7852-4131-acc4-9942600a8f55</tstamp>
+    </comp>
+    <comp ref="Q105">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>7143cc1b-6ef2-4f26-a6dc-1a94c4bff3b1</tstamp>
+    </comp>
+    <comp ref="Q106">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>aed32c77-dc8d-49b6-a66d-e6c17cb24dce</tstamp>
+    </comp>
+    <comp ref="Q107">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>5d85e32b-c6f0-4e54-a829-56faee670f7e</tstamp>
+    </comp>
+    <comp ref="Q108">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>c77b8a4a-cbd0-4a6a-a81d-9a791b25e6d8</tstamp>
+    </comp>
+    <comp ref="U60">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>827ffcfd-a3b5-43de-8273-4db4f94626a6</tstamp>
+    </comp>
+    <comp ref="U61">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="AND3"/>
+      <property name="Sheet file" value="AND.kicad_sch"/>
+      <sheetpath names="/AND3/" tstamps="/bb99514e-3040-4cc2-b1c5-7bc27ceafbc3/"/>
+      <tstamp>0bc68f84-7852-4131-acc4-9942600a8f55</tstamp>
+    </comp>
+    <comp ref="Q109">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q110">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q111">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q112">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q113">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q114">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q115">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q116">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U62">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U63">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U64">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U65">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR1"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR1/" tstamps="/f2298554-3876-4b52-943a-13ff0473a428/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q117">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>f16afc76-7ab9-4c94-a18a-bc903ea04c1d</tstamp>
+    </comp>
+    <comp ref="Q118">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>13f11f0c-defc-4654-96e7-8c88afa1e810</tstamp>
+    </comp>
+    <comp ref="Q119">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>68b818e8-eede-4093-b665-4ce1b99441c2</tstamp>
+    </comp>
+    <comp ref="Q120">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>d1e298ce-aa29-4667-82e8-2de5b774c62a</tstamp>
+    </comp>
+    <comp ref="Q121">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>46051c03-d2c5-45d2-8475-93124b86244a</tstamp>
+    </comp>
+    <comp ref="Q122">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>28b67e63-fb81-4ea1-8c79-bc33046bbceb</tstamp>
+    </comp>
+    <comp ref="Q123">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>d95ad077-71a6-417e-82e3-96f3c3f584e7</tstamp>
+    </comp>
+    <comp ref="Q124">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>ed30d339-19c5-4ec4-be7e-5636e3098937</tstamp>
+    </comp>
+    <comp ref="U66">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>0956076b-ada8-46e8-8875-a6efd74b2893</tstamp>
+    </comp>
+    <comp ref="U67">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>ca0eeeb4-69e6-479b-9743-8121d602af8c</tstamp>
+    </comp>
+    <comp ref="U68">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>df75f444-7931-4bd6-b850-6bee29dbf883</tstamp>
+    </comp>
+    <comp ref="U69">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="XOR2"/>
+      <property name="Sheet file" value="XOR.kicad_sch"/>
+      <sheetpath names="/XOR2/" tstamps="/c0f9f958-498b-4425-a8d8-3345f8132840/"/>
+      <tstamp>5974a8b6-fc60-467a-94f5-5019c477d29b</tstamp>
+    </comp>
+    <comp ref="Q125">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>57f580d2-674b-43ec-8933-096fe119975a</tstamp>
+    </comp>
+    <comp ref="Q126">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>897b6fea-1b87-4f9a-83da-40565307737e</tstamp>
+    </comp>
+    <comp ref="Q127">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>252e6e7b-da50-4c1d-b1e6-ba490c63ec50</tstamp>
+    </comp>
+    <comp ref="Q128">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>6c4a2db4-ccf4-4480-92f7-e9f34d3faf19</tstamp>
+    </comp>
+    <comp ref="U70">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>50d53dc2-4ef7-49bd-8a67-d00cc4eec43b</tstamp>
+    </comp>
+    <comp ref="U71">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="OR2"/>
+      <property name="Sheet file" value="OR.kicad_sch"/>
+      <sheetpath names="/OR2/" tstamps="/32144a7b-c2c9-4a7f-939b-3c4b1abcbcab/"/>
+      <tstamp>ab1758a4-65a8-46d7-8838-4cba46449686</tstamp>
+    </comp>
+    <comp ref="Q129">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>fb2ddda1-1e4b-4e51-b39d-46633759ce7b</tstamp>
+    </comp>
+    <comp ref="Q130">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>a1d82310-8280-4a84-b37b-00dcbb8f97fa</tstamp>
+    </comp>
+    <comp ref="Q131">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>bf87e5b4-f774-422c-b15d-920c6e44d3b8</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>88aa5a6a-14e1-43ad-9537-1e70f0a90f63</tstamp>
+    </comp>
+    <comp ref="U72">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>e78214fd-990b-4d12-9d9b-d4721fb5f0ff</tstamp>
+    </comp>
+    <comp ref="U73">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>f10c0627-2de6-41e1-a480-3b5a89a2c980</tstamp>
+    </comp>
+    <comp ref="U74">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF_RST2"/>
+      <property name="Sheet file" value="FF_RST.kicad_sch"/>
+      <sheetpath names="/FF_RST2/" tstamps="/ae8a0611-1461-4394-8140-590c6cad4b3f/"/>
+      <tstamp>e2947fc6-1255-47ce-b41b-65bf5f62ae40</tstamp>
+    </comp>
+    <comp ref="Q132">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>6cdb986f-d745-41ab-94e2-008b477f6ec1</tstamp>
+    </comp>
+    <comp ref="Q133">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>afddeb19-6c4e-45b5-b9e3-d652b8e828db</tstamp>
+    </comp>
+    <comp ref="Q134">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>b128ad91-fcd3-42b3-822f-4e2be286e9c7</tstamp>
+    </comp>
+    <comp ref="Q135">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>cfe55ba9-68de-4af4-96b8-5ad14b09e043</tstamp>
+    </comp>
+    <comp ref="Q136">
+      <value>FDN335N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</datasheet>
+      <libsource lib="Custom_Transistors" part="FDN335N" description="N-Channel MOSFET"/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>28a6c4bb-b462-4bac-900d-b66b322b573a</tstamp>
+    </comp>
+    <comp ref="U75">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>5a1a7a33-91c2-473a-b793-9ebd24f03607</tstamp>
+    </comp>
+    <comp ref="U76">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>906e797e-97f0-488e-8f17-1508d4ad8782</tstamp>
+    </comp>
+    <comp ref="U77">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>30a24b59-014d-45cb-ac92-a248996622b3</tstamp>
+    </comp>
+    <comp ref="U78">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>8b20ac56-21fe-4a9a-96da-6f996344b89f</tstamp>
+    </comp>
+    <comp ref="U79">
+      <value>FDN360P</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Custom_Transistors" part="FDN360P" description=""/>
+      <property name="Sheet name" value="FF2"/>
+      <property name="Sheet file" value="FF.kicad_sch"/>
+      <sheetpath names="/FF2/" tstamps="/d33ed2e3-11d9-4493-9bef-44e329ca34d5/"/>
+      <tstamp>4884b943-f1ea-4fa8-aef1-59b4af7db9bb</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Transistors" part="FDN335N">
+      <description>N-Channel MOSFET</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FDN335N</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-FDN335N_C241804.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Transistors" part="FDN360P">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FDN360P</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_POT_US">
+      <description>Potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_POT_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="LM555xM">
+      <description>Timer, 555 compatible, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm555.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM555xM</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Custom_Transistors">
+      <uri>/Users/adityasehgal/Documents/GitHub/KiCad_Libraries/Custom_Transistors.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Library/Application Support/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="Timer">
+      <uri>/Library/Application Support/kicad/library/Timer.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="D6" pin="2" pinfunction="A"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1"/>
+      <node ref="Q1" pin="3" pinfunction="D"/>
+      <node ref="Q101" pin="3" pinfunction="D"/>
+      <node ref="Q105" pin="3" pinfunction="D"/>
+      <node ref="Q13" pin="3" pinfunction="D"/>
+      <node ref="Q14" pin="3" pinfunction="D"/>
+      <node ref="Q15" pin="3" pinfunction="D"/>
+      <node ref="Q2" pin="3" pinfunction="D"/>
+      <node ref="Q21" pin="3" pinfunction="D"/>
+      <node ref="Q22" pin="3" pinfunction="D"/>
+      <node ref="Q23" pin="3" pinfunction="D"/>
+      <node ref="Q65" pin="3" pinfunction="D"/>
+      <node ref="Q7" pin="3" pinfunction="D"/>
+      <node ref="Q8" pin="3" pinfunction="D"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="RV1" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="4" pinfunction="R"/>
+      <node ref="U1" pin="8" pinfunction="VCC"/>
+      <node ref="U10" pin="3" pinfunction="D"/>
+      <node ref="U11" pin="3" pinfunction="D"/>
+      <node ref="U12" pin="3" pinfunction="D"/>
+      <node ref="U13" pin="3" pinfunction="D"/>
+      <node ref="U14" pin="3" pinfunction="D"/>
+      <node ref="U15" pin="3" pinfunction="D"/>
+      <node ref="U16" pin="3" pinfunction="D"/>
+      <node ref="U17" pin="3" pinfunction="D"/>
+      <node ref="U18" pin="3" pinfunction="D"/>
+      <node ref="U19" pin="3" pinfunction="D"/>
+      <node ref="U2" pin="3" pinfunction="D"/>
+      <node ref="U20" pin="3" pinfunction="D"/>
+      <node ref="U21" pin="3" pinfunction="D"/>
+      <node ref="U22" pin="3" pinfunction="D"/>
+      <node ref="U23" pin="3" pinfunction="D"/>
+      <node ref="U24" pin="3" pinfunction="D"/>
+      <node ref="U25" pin="3" pinfunction="D"/>
+      <node ref="U26" pin="3" pinfunction="D"/>
+      <node ref="U27" pin="3" pinfunction="D"/>
+      <node ref="U28" pin="3" pinfunction="D"/>
+      <node ref="U29" pin="3" pinfunction="D"/>
+      <node ref="U3" pin="3" pinfunction="D"/>
+      <node ref="U30" pin="3" pinfunction="D"/>
+      <node ref="U33" pin="3" pinfunction="D"/>
+      <node ref="U34" pin="3" pinfunction="D"/>
+      <node ref="U35" pin="3" pinfunction="D"/>
+      <node ref="U36" pin="3" pinfunction="D"/>
+      <node ref="U37" pin="3" pinfunction="D"/>
+      <node ref="U4" pin="3" pinfunction="D"/>
+      <node ref="U40" pin="3" pinfunction="D"/>
+      <node ref="U43" pin="3" pinfunction="D"/>
+      <node ref="U45" pin="3" pinfunction="D"/>
+      <node ref="U47" pin="3" pinfunction="D"/>
+      <node ref="U48" pin="3" pinfunction="D"/>
+      <node ref="U5" pin="3" pinfunction="D"/>
+      <node ref="U50" pin="3" pinfunction="D"/>
+      <node ref="U52" pin="3" pinfunction="D"/>
+      <node ref="U53" pin="3" pinfunction="D"/>
+      <node ref="U55" pin="3" pinfunction="D"/>
+      <node ref="U57" pin="3" pinfunction="D"/>
+      <node ref="U58" pin="3" pinfunction="D"/>
+      <node ref="U59" pin="3" pinfunction="D"/>
+      <node ref="U6" pin="3" pinfunction="D"/>
+      <node ref="U60" pin="3" pinfunction="D"/>
+      <node ref="U61" pin="3" pinfunction="D"/>
+      <node ref="U62" pin="3" pinfunction="D"/>
+      <node ref="U63" pin="3" pinfunction="D"/>
+      <node ref="U64" pin="3" pinfunction="D"/>
+      <node ref="U65" pin="3" pinfunction="D"/>
+      <node ref="U66" pin="3" pinfunction="D"/>
+      <node ref="U67" pin="3" pinfunction="D"/>
+      <node ref="U68" pin="3" pinfunction="D"/>
+      <node ref="U69" pin="3" pinfunction="D"/>
+      <node ref="U7" pin="3" pinfunction="D"/>
+      <node ref="U70" pin="3" pinfunction="D"/>
+      <node ref="U71" pin="3" pinfunction="D"/>
+      <node ref="U72" pin="3" pinfunction="D"/>
+      <node ref="U75" pin="3" pinfunction="D"/>
+      <node ref="U77" pin="3" pinfunction="D"/>
+      <node ref="U79" pin="3" pinfunction="D"/>
+      <node ref="U8" pin="3" pinfunction="D"/>
+      <node ref="U9" pin="3" pinfunction="D"/>
+    </net>
+    <net code="2" name="/&#xA;FF_RST3/!RST">
+      <node ref="Q80" pin="3" pinfunction="D"/>
+      <node ref="Q81" pin="1" pinfunction="G"/>
+      <node ref="U37" pin="2" pinfunction="S"/>
+      <node ref="U39" pin="1" pinfunction="G"/>
+    </net>
+    <net code="3" name="/&#xA;FF_RST4/!RST">
+      <node ref="Q83" pin="3" pinfunction="D"/>
+      <node ref="Q84" pin="1" pinfunction="G"/>
+      <node ref="U40" pin="2" pinfunction="S"/>
+      <node ref="U42" pin="1" pinfunction="G"/>
+    </net>
+    <net code="4" name="/!B0">
+      <node ref="Q105" pin="1" pinfunction="G"/>
+      <node ref="Q106" pin="1" pinfunction="G"/>
+      <node ref="Q21" pin="1" pinfunction="G"/>
+      <node ref="Q24" pin="1" pinfunction="G"/>
+      <node ref="Q67" pin="1" pinfunction="G"/>
+      <node ref="Q7" pin="1" pinfunction="G"/>
+      <node ref="Q88" pin="3" pinfunction="D"/>
+      <node ref="Q9" pin="1" pinfunction="G"/>
+      <node ref="Q90" pin="1" pinfunction="G"/>
+      <node ref="U28" pin="1" pinfunction="G"/>
+      <node ref="U45" pin="2" pinfunction="S"/>
+      <node ref="U47" pin="1" pinfunction="G"/>
+    </net>
+    <net code="5" name="/!B1">
+      <node ref="Q10" pin="1" pinfunction="G"/>
+      <node ref="Q134" pin="3" pinfunction="D"/>
+      <node ref="Q136" pin="1" pinfunction="G"/>
+      <node ref="Q22" pin="1" pinfunction="G"/>
+      <node ref="Q25" pin="1" pinfunction="G"/>
+      <node ref="U4" pin="1" pinfunction="G"/>
+      <node ref="U77" pin="2" pinfunction="S"/>
+      <node ref="U79" pin="1" pinfunction="G"/>
+    </net>
+    <net code="6" name="/!B2">
+      <node ref="Q23" pin="1" pinfunction="G"/>
+      <node ref="Q26" pin="1" pinfunction="G"/>
+      <node ref="Q93" pin="3" pinfunction="D"/>
+      <node ref="Q95" pin="1" pinfunction="G"/>
+      <node ref="U50" pin="2" pinfunction="S"/>
+      <node ref="U52" pin="1" pinfunction="G"/>
+    </net>
+    <net code="7" name="/!B3">
+      <node ref="Q100" pin="1" pinfunction="G"/>
+      <node ref="Q98" pin="3" pinfunction="D"/>
+      <node ref="U55" pin="2" pinfunction="S"/>
+      <node ref="U57" pin="1" pinfunction="G"/>
+    </net>
+    <net code="8" name="/B0">
+      <node ref="D1" pin="2" pinfunction="A"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2"/>
+      <node ref="Q1" pin="1" pinfunction="G"/>
+      <node ref="Q103" pin="1" pinfunction="G"/>
+      <node ref="Q13" pin="1" pinfunction="G"/>
+      <node ref="Q16" pin="1" pinfunction="G"/>
+      <node ref="Q3" pin="1" pinfunction="G"/>
+      <node ref="Q89" pin="2" pinfunction="S"/>
+      <node ref="Q90" pin="3" pinfunction="D"/>
+      <node ref="U46" pin="3" pinfunction="D"/>
+      <node ref="U47" pin="2" pinfunction="S"/>
+      <node ref="U58" pin="1" pinfunction="G"/>
+    </net>
+    <net code="9" name="/B1">
+      <node ref="D2" pin="2" pinfunction="A"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3"/>
+      <node ref="Q111" pin="1" pinfunction="G"/>
+      <node ref="Q112" pin="1" pinfunction="G"/>
+      <node ref="Q116" pin="1" pinfunction="G"/>
+      <node ref="Q117" pin="1" pinfunction="G"/>
+      <node ref="Q118" pin="1" pinfunction="G"/>
+      <node ref="Q135" pin="2" pinfunction="S"/>
+      <node ref="Q136" pin="3" pinfunction="D"/>
+      <node ref="Q14" pin="1" pinfunction="G"/>
+      <node ref="Q17" pin="1" pinfunction="G"/>
+      <node ref="Q4" pin="1" pinfunction="G"/>
+      <node ref="U2" pin="1" pinfunction="G"/>
+      <node ref="U64" pin="1" pinfunction="G"/>
+      <node ref="U65" pin="1" pinfunction="G"/>
+      <node ref="U66" pin="1" pinfunction="G"/>
+      <node ref="U78" pin="3" pinfunction="D"/>
+      <node ref="U79" pin="2" pinfunction="S"/>
+    </net>
+    <net code="10" name="/B2">
+      <node ref="D3" pin="2" pinfunction="A"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4"/>
+      <node ref="Q15" pin="1" pinfunction="G"/>
+      <node ref="Q18" pin="1" pinfunction="G"/>
+      <node ref="Q35" pin="1" pinfunction="G"/>
+      <node ref="Q36" pin="1" pinfunction="G"/>
+      <node ref="Q40" pin="1" pinfunction="G"/>
+      <node ref="Q41" pin="1" pinfunction="G"/>
+      <node ref="Q42" pin="1" pinfunction="G"/>
+      <node ref="Q94" pin="2" pinfunction="S"/>
+      <node ref="Q95" pin="3" pinfunction="D"/>
+      <node ref="U14" pin="1" pinfunction="G"/>
+      <node ref="U15" pin="1" pinfunction="G"/>
+      <node ref="U16" pin="1" pinfunction="G"/>
+      <node ref="U51" pin="3" pinfunction="D"/>
+      <node ref="U52" pin="2" pinfunction="S"/>
+    </net>
+    <net code="11" name="/B3">
+      <node ref="D4" pin="2" pinfunction="A"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5"/>
+      <node ref="Q100" pin="3" pinfunction="D"/>
+      <node ref="Q51" pin="1" pinfunction="G"/>
+      <node ref="Q52" pin="1" pinfunction="G"/>
+      <node ref="Q56" pin="1" pinfunction="G"/>
+      <node ref="Q57" pin="1" pinfunction="G"/>
+      <node ref="Q58" pin="1" pinfunction="G"/>
+      <node ref="Q99" pin="2" pinfunction="S"/>
+      <node ref="U22" pin="1" pinfunction="G"/>
+      <node ref="U23" pin="1" pinfunction="G"/>
+      <node ref="U24" pin="1" pinfunction="G"/>
+      <node ref="U56" pin="3" pinfunction="D"/>
+      <node ref="U57" pin="2" pinfunction="S"/>
+    </net>
+    <net code="12" name="/CLK">
+      <node ref="D5" pin="2" pinfunction="A"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1"/>
+      <node ref="Q132" pin="1" pinfunction="G"/>
+      <node ref="Q133" pin="1" pinfunction="G"/>
+      <node ref="Q86" pin="1" pinfunction="G"/>
+      <node ref="Q87" pin="1" pinfunction="G"/>
+      <node ref="Q91" pin="1" pinfunction="G"/>
+      <node ref="Q92" pin="1" pinfunction="G"/>
+      <node ref="Q96" pin="1" pinfunction="G"/>
+      <node ref="Q97" pin="1" pinfunction="G"/>
+      <node ref="U1" pin="3" pinfunction="Q"/>
+      <node ref="U43" pin="1" pinfunction="G"/>
+      <node ref="U46" pin="1" pinfunction="G"/>
+      <node ref="U48" pin="1" pinfunction="G"/>
+      <node ref="U51" pin="1" pinfunction="G"/>
+      <node ref="U53" pin="1" pinfunction="G"/>
+      <node ref="U56" pin="1" pinfunction="G"/>
+      <node ref="U75" pin="1" pinfunction="G"/>
+      <node ref="U78" pin="1" pinfunction="G"/>
+    </net>
+    <net code="13" name="/DW">
+      <node ref="Q107" pin="1" pinfunction="G"/>
+      <node ref="Q11" pin="1" pinfunction="G"/>
+      <node ref="Q27" pin="1" pinfunction="G"/>
+      <node ref="Q29" pin="1" pinfunction="G"/>
+      <node ref="Q30" pin="1" pinfunction="G"/>
+      <node ref="Q8" pin="1" pinfunction="G"/>
+      <node ref="R2" pin="2"/>
+      <node ref="SW2" pin="2" pinfunction="2"/>
+      <node ref="U60" pin="1" pinfunction="G"/>
+      <node ref="U8" pin="1" pinfunction="G"/>
+    </net>
+    <net code="14" name="/FF1/!CLK">
+      <node ref="Q86" pin="3" pinfunction="D"/>
+      <node ref="Q89" pin="1" pinfunction="G"/>
+      <node ref="U43" pin="2" pinfunction="S"/>
+      <node ref="U44" pin="1" pinfunction="G"/>
+    </net>
+    <net code="15" name="/FF2/!CLK">
+      <node ref="Q132" pin="3" pinfunction="D"/>
+      <node ref="Q135" pin="1" pinfunction="G"/>
+      <node ref="U75" pin="2" pinfunction="S"/>
+      <node ref="U76" pin="1" pinfunction="G"/>
+    </net>
+    <net code="16" name="/FF3/!CLK">
+      <node ref="Q91" pin="3" pinfunction="D"/>
+      <node ref="Q94" pin="1" pinfunction="G"/>
+      <node ref="U48" pin="2" pinfunction="S"/>
+      <node ref="U49" pin="1" pinfunction="G"/>
+    </net>
+    <net code="17" name="/FF4/!CLK">
+      <node ref="Q96" pin="3" pinfunction="D"/>
+      <node ref="Q99" pin="1" pinfunction="G"/>
+      <node ref="U53" pin="2" pinfunction="S"/>
+      <node ref="U54" pin="1" pinfunction="G"/>
+    </net>
+    <net code="18" name="/FF_RST1/!RST">
+      <node ref="Q69" pin="3" pinfunction="D"/>
+      <node ref="Q70" pin="1" pinfunction="G"/>
+      <node ref="U30" pin="2" pinfunction="S"/>
+      <node ref="U32" pin="1" pinfunction="G"/>
+    </net>
+    <net code="19" name="/FF_RST2/!RST">
+      <node ref="Q129" pin="3" pinfunction="D"/>
+      <node ref="Q130" pin="1" pinfunction="G"/>
+      <node ref="U72" pin="2" pinfunction="S"/>
+      <node ref="U74" pin="1" pinfunction="G"/>
+    </net>
+    <net code="20" name="/Q">
+      <node ref="Q104" pin="3" pinfunction="D"/>
+      <node ref="Q109" pin="1" pinfunction="G"/>
+      <node ref="Q110" pin="1" pinfunction="G"/>
+      <node ref="U59" pin="2" pinfunction="S"/>
+      <node ref="U62" pin="1" pinfunction="G"/>
+    </net>
+    <net code="21" name="/Q_1">
+      <node ref="Q84" pin="3" pinfunction="D"/>
+      <node ref="Q85" pin="3" pinfunction="D"/>
+      <node ref="Q97" pin="2" pinfunction="S"/>
+      <node ref="U41" pin="2" pinfunction="S"/>
+      <node ref="U42" pin="2" pinfunction="S"/>
+      <node ref="U54" pin="3" pinfunction="D"/>
+    </net>
+    <net code="22" name="/Q_10">
+      <node ref="Q50" pin="2" pinfunction="S"/>
+      <node ref="Q51" pin="3" pinfunction="D"/>
+      <node ref="Q53" pin="2" pinfunction="S"/>
+      <node ref="Q54" pin="3" pinfunction="D"/>
+      <node ref="Q78" pin="1" pinfunction="G"/>
+      <node ref="U35" pin="1" pinfunction="G"/>
+    </net>
+    <net code="23" name="/Q_11">
+      <node ref="Q58" pin="2" pinfunction="S"/>
+      <node ref="Q59" pin="3" pinfunction="D"/>
+      <node ref="Q61" pin="2" pinfunction="S"/>
+      <node ref="Q62" pin="3" pinfunction="D"/>
+      <node ref="Q76" pin="1" pinfunction="G"/>
+      <node ref="Q77" pin="1" pinfunction="G"/>
+    </net>
+    <net code="24" name="/Q_12">
+      <node ref="Q68" pin="3" pinfunction="D"/>
+      <node ref="Q70" pin="2" pinfunction="S"/>
+      <node ref="U29" pin="2" pinfunction="S"/>
+      <node ref="U31" pin="3" pinfunction="D"/>
+    </net>
+    <net code="25" name="/Q_13">
+      <node ref="Q75" pin="3" pinfunction="D"/>
+      <node ref="Q81" pin="2" pinfunction="S"/>
+      <node ref="U34" pin="2" pinfunction="S"/>
+      <node ref="U38" pin="3" pinfunction="D"/>
+    </net>
+    <net code="26" name="/Q_14">
+      <node ref="Q70" pin="3" pinfunction="D"/>
+      <node ref="Q71" pin="3" pinfunction="D"/>
+      <node ref="Q87" pin="2" pinfunction="S"/>
+      <node ref="U31" pin="2" pinfunction="S"/>
+      <node ref="U32" pin="2" pinfunction="S"/>
+      <node ref="U44" pin="3" pinfunction="D"/>
+    </net>
+    <net code="27" name="/Q_15">
+      <node ref="Q79" pin="3" pinfunction="D"/>
+      <node ref="Q84" pin="2" pinfunction="S"/>
+      <node ref="U36" pin="2" pinfunction="S"/>
+      <node ref="U41" pin="3" pinfunction="D"/>
+    </net>
+    <net code="28" name="/Q_16">
+      <node ref="Q110" pin="2" pinfunction="S"/>
+      <node ref="Q111" pin="3" pinfunction="D"/>
+      <node ref="Q113" pin="2" pinfunction="S"/>
+      <node ref="Q114" pin="3" pinfunction="D"/>
+      <node ref="Q127" pin="1" pinfunction="G"/>
+      <node ref="U70" pin="1" pinfunction="G"/>
+    </net>
+    <net code="29" name="/Q_17">
+      <node ref="Q118" pin="2" pinfunction="S"/>
+      <node ref="Q119" pin="3" pinfunction="D"/>
+      <node ref="Q121" pin="2" pinfunction="S"/>
+      <node ref="Q122" pin="3" pinfunction="D"/>
+      <node ref="Q125" pin="1" pinfunction="G"/>
+      <node ref="Q126" pin="1" pinfunction="G"/>
+    </net>
+    <net code="30" name="/Q_18">
+      <node ref="Q130" pin="3" pinfunction="D"/>
+      <node ref="Q131" pin="3" pinfunction="D"/>
+      <node ref="Q133" pin="2" pinfunction="S"/>
+      <node ref="U73" pin="2" pinfunction="S"/>
+      <node ref="U74" pin="2" pinfunction="S"/>
+      <node ref="U76" pin="3" pinfunction="D"/>
+    </net>
+    <net code="31" name="/Q_19">
+      <node ref="Q128" pin="3" pinfunction="D"/>
+      <node ref="Q130" pin="2" pinfunction="S"/>
+      <node ref="U71" pin="2" pinfunction="S"/>
+      <node ref="U73" pin="3" pinfunction="D"/>
+    </net>
+    <net code="32" name="/Q_2">
+      <node ref="Q81" pin="3" pinfunction="D"/>
+      <node ref="Q82" pin="3" pinfunction="D"/>
+      <node ref="Q92" pin="2" pinfunction="S"/>
+      <node ref="U38" pin="2" pinfunction="S"/>
+      <node ref="U39" pin="2" pinfunction="S"/>
+      <node ref="U49" pin="3" pinfunction="D"/>
+    </net>
+    <net code="33" name="/Q_20">
+      <node ref="Q108" pin="3" pinfunction="D"/>
+      <node ref="Q119" pin="1" pinfunction="G"/>
+      <node ref="Q120" pin="1" pinfunction="G"/>
+      <node ref="Q124" pin="1" pinfunction="G"/>
+      <node ref="U61" pin="2" pinfunction="S"/>
+      <node ref="U68" pin="1" pinfunction="G"/>
+      <node ref="U69" pin="1" pinfunction="G"/>
+    </net>
+    <net code="34" name="/Q_3">
+      <node ref="Q33" pin="1" pinfunction="G"/>
+      <node ref="Q34" pin="1" pinfunction="G"/>
+      <node ref="Q6" pin="3" pinfunction="D"/>
+      <node ref="U12" pin="1" pinfunction="G"/>
+      <node ref="U3" pin="2" pinfunction="S"/>
+    </net>
+    <net code="35" name="/Q_4">
+      <node ref="Q12" pin="3" pinfunction="D"/>
+      <node ref="Q43" pin="1" pinfunction="G"/>
+      <node ref="Q44" pin="1" pinfunction="G"/>
+      <node ref="Q48" pin="1" pinfunction="G"/>
+      <node ref="U18" pin="1" pinfunction="G"/>
+      <node ref="U19" pin="1" pinfunction="G"/>
+      <node ref="U5" pin="2" pinfunction="S"/>
+    </net>
+    <net code="36" name="/Q_5">
+      <node ref="Q32" pin="3" pinfunction="D"/>
+      <node ref="Q65" pin="1" pinfunction="G"/>
+      <node ref="Q66" pin="1" pinfunction="G"/>
+      <node ref="U11" pin="2" pinfunction="S"/>
+    </net>
+    <net code="37" name="/Q_6">
+      <node ref="Q34" pin="2" pinfunction="S"/>
+      <node ref="Q35" pin="3" pinfunction="D"/>
+      <node ref="Q37" pin="2" pinfunction="S"/>
+      <node ref="Q38" pin="3" pinfunction="D"/>
+      <node ref="Q74" pin="1" pinfunction="G"/>
+      <node ref="U33" pin="1" pinfunction="G"/>
+    </net>
+    <net code="38" name="/Q_7">
+      <node ref="Q42" pin="2" pinfunction="S"/>
+      <node ref="Q43" pin="3" pinfunction="D"/>
+      <node ref="Q45" pin="2" pinfunction="S"/>
+      <node ref="Q46" pin="3" pinfunction="D"/>
+      <node ref="Q72" pin="1" pinfunction="G"/>
+      <node ref="Q73" pin="1" pinfunction="G"/>
+    </net>
+    <net code="39" name="/Q_8">
+      <node ref="Q28" pin="3" pinfunction="D"/>
+      <node ref="Q59" pin="1" pinfunction="G"/>
+      <node ref="Q60" pin="1" pinfunction="G"/>
+      <node ref="Q64" pin="1" pinfunction="G"/>
+      <node ref="U26" pin="1" pinfunction="G"/>
+      <node ref="U27" pin="1" pinfunction="G"/>
+      <node ref="U9" pin="2" pinfunction="S"/>
+    </net>
+    <net code="40" name="/Q_9">
+      <node ref="Q20" pin="3" pinfunction="D"/>
+      <node ref="Q49" pin="1" pinfunction="G"/>
+      <node ref="Q50" pin="1" pinfunction="G"/>
+      <node ref="U20" pin="1" pinfunction="G"/>
+      <node ref="U7" pin="2" pinfunction="S"/>
+    </net>
+    <net code="41" name="/RST">
+      <node ref="Q129" pin="1" pinfunction="G"/>
+      <node ref="Q131" pin="1" pinfunction="G"/>
+      <node ref="Q69" pin="1" pinfunction="G"/>
+      <node ref="Q71" pin="1" pinfunction="G"/>
+      <node ref="Q80" pin="1" pinfunction="G"/>
+      <node ref="Q82" pin="1" pinfunction="G"/>
+      <node ref="Q83" pin="1" pinfunction="G"/>
+      <node ref="Q85" pin="1" pinfunction="G"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R13" pin="2"/>
+      <node ref="U30" pin="1" pinfunction="G"/>
+      <node ref="U31" pin="1" pinfunction="G"/>
+      <node ref="U37" pin="1" pinfunction="G"/>
+      <node ref="U38" pin="1" pinfunction="G"/>
+      <node ref="U40" pin="1" pinfunction="G"/>
+      <node ref="U41" pin="1" pinfunction="G"/>
+      <node ref="U72" pin="1" pinfunction="G"/>
+      <node ref="U73" pin="1" pinfunction="G"/>
+    </net>
+    <net code="42" name="/UP">
+      <node ref="Q101" pin="1" pinfunction="G"/>
+      <node ref="Q102" pin="1" pinfunction="G"/>
+      <node ref="Q19" pin="1" pinfunction="G"/>
+      <node ref="Q2" pin="1" pinfunction="G"/>
+      <node ref="Q31" pin="1" pinfunction="G"/>
+      <node ref="Q5" pin="1" pinfunction="G"/>
+      <node ref="R1" pin="2"/>
+      <node ref="SW1" pin="2" pinfunction="2"/>
+      <node ref="U10" pin="1" pinfunction="G"/>
+      <node ref="U6" pin="1" pinfunction="G"/>
+    </net>
+    <net code="43" name="/XOR1/!A">
+      <node ref="Q109" pin="3" pinfunction="D"/>
+      <node ref="Q113" pin="1" pinfunction="G"/>
+      <node ref="Q115" pin="1" pinfunction="G"/>
+      <node ref="U62" pin="2" pinfunction="S"/>
+    </net>
+    <net code="44" name="/XOR1/!B">
+      <node ref="Q114" pin="1" pinfunction="G"/>
+      <node ref="Q116" pin="3" pinfunction="D"/>
+      <node ref="U63" pin="1" pinfunction="G"/>
+      <node ref="U65" pin="2" pinfunction="S"/>
+    </net>
+    <net code="45" name="/XOR2/!A">
+      <node ref="Q117" pin="3" pinfunction="D"/>
+      <node ref="Q121" pin="1" pinfunction="G"/>
+      <node ref="Q123" pin="1" pinfunction="G"/>
+      <node ref="U66" pin="2" pinfunction="S"/>
+    </net>
+    <net code="46" name="/XOR2/!B">
+      <node ref="Q122" pin="1" pinfunction="G"/>
+      <node ref="Q124" pin="3" pinfunction="D"/>
+      <node ref="U67" pin="1" pinfunction="G"/>
+      <node ref="U69" pin="2" pinfunction="S"/>
+    </net>
+    <net code="47" name="/XOR3/!A">
+      <node ref="Q33" pin="3" pinfunction="D"/>
+      <node ref="Q37" pin="1" pinfunction="G"/>
+      <node ref="Q39" pin="1" pinfunction="G"/>
+      <node ref="U12" pin="2" pinfunction="S"/>
+    </net>
+    <net code="48" name="/XOR3/!B">
+      <node ref="Q38" pin="1" pinfunction="G"/>
+      <node ref="Q40" pin="3" pinfunction="D"/>
+      <node ref="U13" pin="1" pinfunction="G"/>
+      <node ref="U15" pin="2" pinfunction="S"/>
+    </net>
+    <net code="49" name="/XOR4/!A">
+      <node ref="Q41" pin="3" pinfunction="D"/>
+      <node ref="Q45" pin="1" pinfunction="G"/>
+      <node ref="Q47" pin="1" pinfunction="G"/>
+      <node ref="U16" pin="2" pinfunction="S"/>
+    </net>
+    <net code="50" name="/XOR4/!B">
+      <node ref="Q46" pin="1" pinfunction="G"/>
+      <node ref="Q48" pin="3" pinfunction="D"/>
+      <node ref="U17" pin="1" pinfunction="G"/>
+      <node ref="U19" pin="2" pinfunction="S"/>
+    </net>
+    <net code="51" name="/XOR5/!A">
+      <node ref="Q49" pin="3" pinfunction="D"/>
+      <node ref="Q53" pin="1" pinfunction="G"/>
+      <node ref="Q55" pin="1" pinfunction="G"/>
+      <node ref="U20" pin="2" pinfunction="S"/>
+    </net>
+    <net code="52" name="/XOR5/!B">
+      <node ref="Q54" pin="1" pinfunction="G"/>
+      <node ref="Q56" pin="3" pinfunction="D"/>
+      <node ref="U21" pin="1" pinfunction="G"/>
+      <node ref="U23" pin="2" pinfunction="S"/>
+    </net>
+    <net code="53" name="/XOR6/!A">
+      <node ref="Q57" pin="3" pinfunction="D"/>
+      <node ref="Q61" pin="1" pinfunction="G"/>
+      <node ref="Q63" pin="1" pinfunction="G"/>
+      <node ref="U24" pin="2" pinfunction="S"/>
+    </net>
+    <net code="54" name="/XOR6/!B">
+      <node ref="Q62" pin="1" pinfunction="G"/>
+      <node ref="Q64" pin="3" pinfunction="D"/>
+      <node ref="U25" pin="1" pinfunction="G"/>
+      <node ref="U27" pin="2" pinfunction="S"/>
+    </net>
+    <net code="55" name="GND">
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2"/>
+      <node ref="Q100" pin="2" pinfunction="S"/>
+      <node ref="Q103" pin="2" pinfunction="S"/>
+      <node ref="Q104" pin="2" pinfunction="S"/>
+      <node ref="Q107" pin="2" pinfunction="S"/>
+      <node ref="Q108" pin="2" pinfunction="S"/>
+      <node ref="Q109" pin="2" pinfunction="S"/>
+      <node ref="Q11" pin="2" pinfunction="S"/>
+      <node ref="Q112" pin="2" pinfunction="S"/>
+      <node ref="Q115" pin="2" pinfunction="S"/>
+      <node ref="Q116" pin="2" pinfunction="S"/>
+      <node ref="Q117" pin="2" pinfunction="S"/>
+      <node ref="Q12" pin="2" pinfunction="S"/>
+      <node ref="Q120" pin="2" pinfunction="S"/>
+      <node ref="Q123" pin="2" pinfunction="S"/>
+      <node ref="Q124" pin="2" pinfunction="S"/>
+      <node ref="Q125" pin="2" pinfunction="S"/>
+      <node ref="Q127" pin="2" pinfunction="S"/>
+      <node ref="Q128" pin="2" pinfunction="S"/>
+      <node ref="Q129" pin="2" pinfunction="S"/>
+      <node ref="Q131" pin="2" pinfunction="S"/>
+      <node ref="Q132" pin="2" pinfunction="S"/>
+      <node ref="Q134" pin="2" pinfunction="S"/>
+      <node ref="Q136" pin="2" pinfunction="S"/>
+      <node ref="Q19" pin="2" pinfunction="S"/>
+      <node ref="Q20" pin="2" pinfunction="S"/>
+      <node ref="Q27" pin="2" pinfunction="S"/>
+      <node ref="Q28" pin="2" pinfunction="S"/>
+      <node ref="Q29" pin="2" pinfunction="S"/>
+      <node ref="Q31" pin="2" pinfunction="S"/>
+      <node ref="Q32" pin="2" pinfunction="S"/>
+      <node ref="Q33" pin="2" pinfunction="S"/>
+      <node ref="Q36" pin="2" pinfunction="S"/>
+      <node ref="Q39" pin="2" pinfunction="S"/>
+      <node ref="Q40" pin="2" pinfunction="S"/>
+      <node ref="Q41" pin="2" pinfunction="S"/>
+      <node ref="Q44" pin="2" pinfunction="S"/>
+      <node ref="Q47" pin="2" pinfunction="S"/>
+      <node ref="Q48" pin="2" pinfunction="S"/>
+      <node ref="Q49" pin="2" pinfunction="S"/>
+      <node ref="Q5" pin="2" pinfunction="S"/>
+      <node ref="Q52" pin="2" pinfunction="S"/>
+      <node ref="Q55" pin="2" pinfunction="S"/>
+      <node ref="Q56" pin="2" pinfunction="S"/>
+      <node ref="Q57" pin="2" pinfunction="S"/>
+      <node ref="Q6" pin="2" pinfunction="S"/>
+      <node ref="Q60" pin="2" pinfunction="S"/>
+      <node ref="Q63" pin="2" pinfunction="S"/>
+      <node ref="Q64" pin="2" pinfunction="S"/>
+      <node ref="Q67" pin="2" pinfunction="S"/>
+      <node ref="Q68" pin="2" pinfunction="S"/>
+      <node ref="Q69" pin="2" pinfunction="S"/>
+      <node ref="Q71" pin="2" pinfunction="S"/>
+      <node ref="Q72" pin="2" pinfunction="S"/>
+      <node ref="Q74" pin="2" pinfunction="S"/>
+      <node ref="Q75" pin="2" pinfunction="S"/>
+      <node ref="Q76" pin="2" pinfunction="S"/>
+      <node ref="Q78" pin="2" pinfunction="S"/>
+      <node ref="Q79" pin="2" pinfunction="S"/>
+      <node ref="Q80" pin="2" pinfunction="S"/>
+      <node ref="Q82" pin="2" pinfunction="S"/>
+      <node ref="Q83" pin="2" pinfunction="S"/>
+      <node ref="Q85" pin="2" pinfunction="S"/>
+      <node ref="Q86" pin="2" pinfunction="S"/>
+      <node ref="Q88" pin="2" pinfunction="S"/>
+      <node ref="Q90" pin="2" pinfunction="S"/>
+      <node ref="Q91" pin="2" pinfunction="S"/>
+      <node ref="Q93" pin="2" pinfunction="S"/>
+      <node ref="Q95" pin="2" pinfunction="S"/>
+      <node ref="Q96" pin="2" pinfunction="S"/>
+      <node ref="Q98" pin="2" pinfunction="S"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="SW1" pin="1" pinfunction="1"/>
+      <node ref="SW2" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="1" pinfunction="GND"/>
+      <node ref="U32" pin="3" pinfunction="D"/>
+      <node ref="U39" pin="3" pinfunction="D"/>
+      <node ref="U42" pin="3" pinfunction="D"/>
+      <node ref="U74" pin="3" pinfunction="D"/>
+    </net>
+    <net code="56" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2"/>
+      <node ref="U1" pin="5" pinfunction="CV"/>
+    </net>
+    <net code="57" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="2" pinfunction="TR"/>
+      <node ref="U1" pin="6" pinfunction="THR"/>
+    </net>
+    <net code="58" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="59" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="60" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="61" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="62" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="63" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="64" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="S"/>
+      <node ref="Q2" pin="2" pinfunction="S"/>
+      <node ref="Q3" pin="3" pinfunction="D"/>
+      <node ref="Q6" pin="1" pinfunction="G"/>
+      <node ref="U2" pin="2" pinfunction="S"/>
+      <node ref="U3" pin="1" pinfunction="G"/>
+    </net>
+    <net code="65" name="Net-(Q10-Pad2)">
+      <node ref="Q10" pin="2" pinfunction="S"/>
+      <node ref="Q11" pin="3" pinfunction="D"/>
+    </net>
+    <net code="66" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3" pinfunction="D"/>
+      <node ref="Q9" pin="2" pinfunction="S"/>
+    </net>
+    <net code="67" name="Net-(Q101-Pad2)">
+      <node ref="Q101" pin="2" pinfunction="S"/>
+      <node ref="Q102" pin="3" pinfunction="D"/>
+      <node ref="Q104" pin="1" pinfunction="G"/>
+      <node ref="U58" pin="2" pinfunction="S"/>
+      <node ref="U59" pin="1" pinfunction="G"/>
+    </net>
+    <net code="68" name="Net-(Q102-Pad2)">
+      <node ref="Q102" pin="2" pinfunction="S"/>
+      <node ref="Q103" pin="3" pinfunction="D"/>
+    </net>
+    <net code="69" name="Net-(Q105-Pad2)">
+      <node ref="Q105" pin="2" pinfunction="S"/>
+      <node ref="Q106" pin="3" pinfunction="D"/>
+      <node ref="Q108" pin="1" pinfunction="G"/>
+      <node ref="U60" pin="2" pinfunction="S"/>
+      <node ref="U61" pin="1" pinfunction="G"/>
+    </net>
+    <net code="70" name="Net-(Q106-Pad2)">
+      <node ref="Q106" pin="2" pinfunction="S"/>
+      <node ref="Q107" pin="3" pinfunction="D"/>
+    </net>
+    <net code="71" name="Net-(Q110-Pad3)">
+      <node ref="Q110" pin="3" pinfunction="D"/>
+      <node ref="U63" pin="2" pinfunction="S"/>
+    </net>
+    <net code="72" name="Net-(Q111-Pad2)">
+      <node ref="Q111" pin="2" pinfunction="S"/>
+      <node ref="Q112" pin="3" pinfunction="D"/>
+    </net>
+    <net code="73" name="Net-(Q113-Pad3)">
+      <node ref="Q113" pin="3" pinfunction="D"/>
+      <node ref="U64" pin="2" pinfunction="S"/>
+    </net>
+    <net code="74" name="Net-(Q114-Pad2)">
+      <node ref="Q114" pin="2" pinfunction="S"/>
+      <node ref="Q115" pin="3" pinfunction="D"/>
+    </net>
+    <net code="75" name="Net-(Q118-Pad3)">
+      <node ref="Q118" pin="3" pinfunction="D"/>
+      <node ref="U67" pin="2" pinfunction="S"/>
+    </net>
+    <net code="76" name="Net-(Q119-Pad2)">
+      <node ref="Q119" pin="2" pinfunction="S"/>
+      <node ref="Q120" pin="3" pinfunction="D"/>
+    </net>
+    <net code="77" name="Net-(Q12-Pad1)">
+      <node ref="Q12" pin="1" pinfunction="G"/>
+      <node ref="Q7" pin="2" pinfunction="S"/>
+      <node ref="Q8" pin="2" pinfunction="S"/>
+      <node ref="Q9" pin="3" pinfunction="D"/>
+      <node ref="U4" pin="2" pinfunction="S"/>
+      <node ref="U5" pin="1" pinfunction="G"/>
+    </net>
+    <net code="78" name="Net-(Q121-Pad3)">
+      <node ref="Q121" pin="3" pinfunction="D"/>
+      <node ref="U68" pin="2" pinfunction="S"/>
+    </net>
+    <net code="79" name="Net-(Q122-Pad2)">
+      <node ref="Q122" pin="2" pinfunction="S"/>
+      <node ref="Q123" pin="3" pinfunction="D"/>
+    </net>
+    <net code="80" name="Net-(Q125-Pad3)">
+      <node ref="Q125" pin="3" pinfunction="D"/>
+      <node ref="Q126" pin="2" pinfunction="S"/>
+      <node ref="Q127" pin="3" pinfunction="D"/>
+      <node ref="Q128" pin="1" pinfunction="G"/>
+      <node ref="U71" pin="1" pinfunction="G"/>
+    </net>
+    <net code="81" name="Net-(Q126-Pad3)">
+      <node ref="Q126" pin="3" pinfunction="D"/>
+      <node ref="U70" pin="2" pinfunction="S"/>
+    </net>
+    <net code="82" name="Net-(Q13-Pad2)">
+      <node ref="Q13" pin="2" pinfunction="S"/>
+      <node ref="Q14" pin="2" pinfunction="S"/>
+      <node ref="Q15" pin="2" pinfunction="S"/>
+      <node ref="Q16" pin="3" pinfunction="D"/>
+      <node ref="Q20" pin="1" pinfunction="G"/>
+      <node ref="U6" pin="2" pinfunction="S"/>
+      <node ref="U7" pin="1" pinfunction="G"/>
+    </net>
+    <net code="83" name="Net-(Q133-Pad3)">
+      <node ref="Q133" pin="3" pinfunction="D"/>
+      <node ref="Q134" pin="1" pinfunction="G"/>
+      <node ref="Q135" pin="3" pinfunction="D"/>
+      <node ref="U76" pin="2" pinfunction="S"/>
+      <node ref="U77" pin="1" pinfunction="G"/>
+      <node ref="U78" pin="2" pinfunction="S"/>
+    </net>
+    <net code="84" name="Net-(Q16-Pad2)">
+      <node ref="Q16" pin="2" pinfunction="S"/>
+      <node ref="Q17" pin="3" pinfunction="D"/>
+    </net>
+    <net code="85" name="Net-(Q17-Pad2)">
+      <node ref="Q17" pin="2" pinfunction="S"/>
+      <node ref="Q18" pin="3" pinfunction="D"/>
+    </net>
+    <net code="86" name="Net-(Q18-Pad2)">
+      <node ref="Q18" pin="2" pinfunction="S"/>
+      <node ref="Q19" pin="3" pinfunction="D"/>
+    </net>
+    <net code="87" name="Net-(Q21-Pad2)">
+      <node ref="Q21" pin="2" pinfunction="S"/>
+      <node ref="Q22" pin="2" pinfunction="S"/>
+      <node ref="Q23" pin="2" pinfunction="S"/>
+      <node ref="Q24" pin="3" pinfunction="D"/>
+      <node ref="Q28" pin="1" pinfunction="G"/>
+      <node ref="U8" pin="2" pinfunction="S"/>
+      <node ref="U9" pin="1" pinfunction="G"/>
+    </net>
+    <net code="88" name="Net-(Q24-Pad2)">
+      <node ref="Q24" pin="2" pinfunction="S"/>
+      <node ref="Q25" pin="3" pinfunction="D"/>
+    </net>
+    <net code="89" name="Net-(Q25-Pad2)">
+      <node ref="Q25" pin="2" pinfunction="S"/>
+      <node ref="Q26" pin="3" pinfunction="D"/>
+    </net>
+    <net code="90" name="Net-(Q26-Pad2)">
+      <node ref="Q26" pin="2" pinfunction="S"/>
+      <node ref="Q27" pin="3" pinfunction="D"/>
+    </net>
+    <net code="91" name="Net-(Q29-Pad3)">
+      <node ref="Q29" pin="3" pinfunction="D"/>
+      <node ref="Q30" pin="2" pinfunction="S"/>
+      <node ref="Q31" pin="3" pinfunction="D"/>
+      <node ref="Q32" pin="1" pinfunction="G"/>
+      <node ref="U11" pin="1" pinfunction="G"/>
+    </net>
+    <net code="92" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pinfunction="S"/>
+      <node ref="Q4" pin="3" pinfunction="D"/>
+    </net>
+    <net code="93" name="Net-(Q30-Pad3)">
+      <node ref="Q30" pin="3" pinfunction="D"/>
+      <node ref="U10" pin="2" pinfunction="S"/>
+    </net>
+    <net code="94" name="Net-(Q34-Pad3)">
+      <node ref="Q34" pin="3" pinfunction="D"/>
+      <node ref="U13" pin="2" pinfunction="S"/>
+    </net>
+    <net code="95" name="Net-(Q35-Pad2)">
+      <node ref="Q35" pin="2" pinfunction="S"/>
+      <node ref="Q36" pin="3" pinfunction="D"/>
+    </net>
+    <net code="96" name="Net-(Q37-Pad3)">
+      <node ref="Q37" pin="3" pinfunction="D"/>
+      <node ref="U14" pin="2" pinfunction="S"/>
+    </net>
+    <net code="97" name="Net-(Q38-Pad2)">
+      <node ref="Q38" pin="2" pinfunction="S"/>
+      <node ref="Q39" pin="3" pinfunction="D"/>
+    </net>
+    <net code="98" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2" pinfunction="S"/>
+      <node ref="Q5" pin="3" pinfunction="D"/>
+    </net>
+    <net code="99" name="Net-(Q42-Pad3)">
+      <node ref="Q42" pin="3" pinfunction="D"/>
+      <node ref="U17" pin="2" pinfunction="S"/>
+    </net>
+    <net code="100" name="Net-(Q43-Pad2)">
+      <node ref="Q43" pin="2" pinfunction="S"/>
+      <node ref="Q44" pin="3" pinfunction="D"/>
+    </net>
+    <net code="101" name="Net-(Q45-Pad3)">
+      <node ref="Q45" pin="3" pinfunction="D"/>
+      <node ref="U18" pin="2" pinfunction="S"/>
+    </net>
+    <net code="102" name="Net-(Q46-Pad2)">
+      <node ref="Q46" pin="2" pinfunction="S"/>
+      <node ref="Q47" pin="3" pinfunction="D"/>
+    </net>
+    <net code="103" name="Net-(Q50-Pad3)">
+      <node ref="Q50" pin="3" pinfunction="D"/>
+      <node ref="U21" pin="2" pinfunction="S"/>
+    </net>
+    <net code="104" name="Net-(Q51-Pad2)">
+      <node ref="Q51" pin="2" pinfunction="S"/>
+      <node ref="Q52" pin="3" pinfunction="D"/>
+    </net>
+    <net code="105" name="Net-(Q53-Pad3)">
+      <node ref="Q53" pin="3" pinfunction="D"/>
+      <node ref="U22" pin="2" pinfunction="S"/>
+    </net>
+    <net code="106" name="Net-(Q54-Pad2)">
+      <node ref="Q54" pin="2" pinfunction="S"/>
+      <node ref="Q55" pin="3" pinfunction="D"/>
+    </net>
+    <net code="107" name="Net-(Q58-Pad3)">
+      <node ref="Q58" pin="3" pinfunction="D"/>
+      <node ref="U25" pin="2" pinfunction="S"/>
+    </net>
+    <net code="108" name="Net-(Q59-Pad2)">
+      <node ref="Q59" pin="2" pinfunction="S"/>
+      <node ref="Q60" pin="3" pinfunction="D"/>
+    </net>
+    <net code="109" name="Net-(Q61-Pad3)">
+      <node ref="Q61" pin="3" pinfunction="D"/>
+      <node ref="U26" pin="2" pinfunction="S"/>
+    </net>
+    <net code="110" name="Net-(Q62-Pad2)">
+      <node ref="Q62" pin="2" pinfunction="S"/>
+      <node ref="Q63" pin="3" pinfunction="D"/>
+    </net>
+    <net code="111" name="Net-(Q65-Pad2)">
+      <node ref="Q65" pin="2" pinfunction="S"/>
+      <node ref="Q66" pin="3" pinfunction="D"/>
+      <node ref="Q68" pin="1" pinfunction="G"/>
+      <node ref="U28" pin="2" pinfunction="S"/>
+      <node ref="U29" pin="1" pinfunction="G"/>
+    </net>
+    <net code="112" name="Net-(Q66-Pad2)">
+      <node ref="Q66" pin="2" pinfunction="S"/>
+      <node ref="Q67" pin="3" pinfunction="D"/>
+    </net>
+    <net code="113" name="Net-(Q72-Pad3)">
+      <node ref="Q72" pin="3" pinfunction="D"/>
+      <node ref="Q73" pin="2" pinfunction="S"/>
+      <node ref="Q74" pin="3" pinfunction="D"/>
+      <node ref="Q75" pin="1" pinfunction="G"/>
+      <node ref="U34" pin="1" pinfunction="G"/>
+    </net>
+    <net code="114" name="Net-(Q73-Pad3)">
+      <node ref="Q73" pin="3" pinfunction="D"/>
+      <node ref="U33" pin="2" pinfunction="S"/>
+    </net>
+    <net code="115" name="Net-(Q76-Pad3)">
+      <node ref="Q76" pin="3" pinfunction="D"/>
+      <node ref="Q77" pin="2" pinfunction="S"/>
+      <node ref="Q78" pin="3" pinfunction="D"/>
+      <node ref="Q79" pin="1" pinfunction="G"/>
+      <node ref="U36" pin="1" pinfunction="G"/>
+    </net>
+    <net code="116" name="Net-(Q77-Pad3)">
+      <node ref="Q77" pin="3" pinfunction="D"/>
+      <node ref="U35" pin="2" pinfunction="S"/>
+    </net>
+    <net code="117" name="Net-(Q87-Pad3)">
+      <node ref="Q87" pin="3" pinfunction="D"/>
+      <node ref="Q88" pin="1" pinfunction="G"/>
+      <node ref="Q89" pin="3" pinfunction="D"/>
+      <node ref="U44" pin="2" pinfunction="S"/>
+      <node ref="U45" pin="1" pinfunction="G"/>
+      <node ref="U46" pin="2" pinfunction="S"/>
+    </net>
+    <net code="118" name="Net-(Q92-Pad3)">
+      <node ref="Q92" pin="3" pinfunction="D"/>
+      <node ref="Q93" pin="1" pinfunction="G"/>
+      <node ref="Q94" pin="3" pinfunction="D"/>
+      <node ref="U49" pin="2" pinfunction="S"/>
+      <node ref="U50" pin="1" pinfunction="G"/>
+      <node ref="U51" pin="2" pinfunction="S"/>
+    </net>
+    <net code="119" name="Net-(Q97-Pad3)">
+      <node ref="Q97" pin="3" pinfunction="D"/>
+      <node ref="Q98" pin="1" pinfunction="G"/>
+      <node ref="Q99" pin="3" pinfunction="D"/>
+      <node ref="U54" pin="2" pinfunction="S"/>
+      <node ref="U55" pin="1" pinfunction="G"/>
+      <node ref="U56" pin="2" pinfunction="S"/>
+    </net>
+    <net code="120" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="RV1" pin="2" pinfunction="2"/>
+      <node ref="RV1" pin="3" pinfunction="3"/>
+      <node ref="U1" pin="7" pinfunction="DIS"/>
+    </net>
+  </nets>
+</export>
